@@ -1,0 +1,64 @@
+
+[
+    {
+      "id": 1,
+      "productName": "Recliner Chair Wood",
+      "category": "Side chair",
+      "previousPrice": 350.00,
+      "currentPrice": 299.00,
+      "offer": "30% off",
+      "productDescription": "It has a backrest that can be tilted back, and often a footrest extended",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695772/Akij-ibos/image_125-removebg-preview_1_luoaya.png"
+    },
+    {
+      "id": 2,
+      "productName": "Timber Ride Padded",
+      "category": "Lounge chair",
+      "previousPrice": 75.00,
+      "currentPrice": 69.00,
+      "offer": "30% off",
+      "productDescription": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs ",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695773/Akij-ibos/rocking-chair-with-padded-seat_1_mihecs.png"
+    },
+    {
+      "id": 3,
+      "productName": "Colored Wooden Chair",
+      "category": "Rocking chair",
+      "previousPrice": 350.00,
+      "currentPrice": 299.00,
+      "offer": "30% off",
+      "productDescription": "It has a backrest that can be tilted back, and often a footrest extended.",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695772/Akij-ibos/image_146_1_b0wzzy.png"
+    },
+    {
+      "id": 4,
+      "productName": "Blank Bamboo Wicker",
+      "category": "Side chair",
+      "previousPrice": 350.00,
+      "currentPrice": 299.00,
+      "offer": "30% off",
+      "productDescription": "Lightweight, easy to clean, sturdy, safe and stable. Non-slip legs.",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695772/Akij-ibos/image_147_1_atkz1m.png"
+    },
+    {
+      "id": 5,
+      "productName": "Isolated Wooden Rock",
+      "category": "Rocking chair",
+      "previousPrice": 400.00,
+      "currentPrice": 165.00,
+      "offer": "30% off",
+      "productDescription": "It has a backrest that can be tilted back, and often a footrest extended",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695772/Akij-ibos/image_148_f2haji.png"
+    },
+    {
+      "id": 6,
+      "productName": "Minimal Empty Rocking",
+      "category": "Rocking chair",
+      "previousPrice": 350.00,
+      "currentPrice": 299.00,
+      "offer": "30% off",
+      "productDescription": "A seat, especially for one person, usually having four legs for support.",
+      "imageUrl": "https://res.cloudinary.com/dt3qrt76n/image/upload/v1725695772/Akij-ibos/image_149_mh6odu.png"
+    }
+  ]
+  
